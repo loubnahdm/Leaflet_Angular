@@ -29,7 +29,9 @@
             ],
             "styles": [
               "src/styles.scss",
-              "node_modules/leaflet/dist/leaflet.css"
+              "node_modules/leaflet/dist/leaflet.css",
+              "node_modules/rb-leaflet-dvf/dist/css/dvf.css"
+              
             ],
             "scripts": []
           },
